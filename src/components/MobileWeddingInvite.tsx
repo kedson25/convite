@@ -253,7 +253,7 @@ const ThankYouStep = () => (
         </p>
         <div className="mt-6 p-4 bg-gold-light/30 rounded-lg">
           <p className="text-sm text-gold-primary font-medium">
-            Nos vemos em 17 de dezembro! ✨
+            Nos vemos em 7 de dezembro! ✨
           </p>
         </div>
       </CardContent>

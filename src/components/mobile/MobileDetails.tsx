@@ -33,7 +33,7 @@ export function MobileDetails({ onNext }: MobileDetailsProps) {
             <div className="flex items-center space-x-3">
               <Calendar className="w-5 h-5 text-primary flex-shrink-0" />
               <div>
-                <p className="font-semibold text-foreground">17 de dezembro de 2025</p>
+                <p className="font-semibold text-foreground">7 de dezembro de 2025</p>
                 <p className="text-sm text-muted-foreground">quarta-feira.</p>
               </div>
             </div>

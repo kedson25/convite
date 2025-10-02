@@ -21,7 +21,7 @@ export function CerimonyDetails() {
                   <div>
                     <h3 className="font-semibold text-foreground text-lg">📅 Data</h3>
                     <p className="text-muted-foreground">Sábado</p>
-                    <p className="font-medium text-lg">17 de dezembro de 2025</p>
+                    <p className="font-medium text-lg">7 de dezembro de 2025</p>
                   </div>
                 </div>
 

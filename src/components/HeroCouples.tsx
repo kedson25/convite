@@ -35,7 +35,7 @@ export function HeroCouples() {
                 💍 Júlia & Ruan
               </h1>
               <p className="text-3xl md:text-4xl text-muted-foreground font-light">
-                17 de Dezembro de 2025
+                7 de dezembro de 2025
               </p>
             </div>
 

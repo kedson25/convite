@@ -42,7 +42,7 @@ export function MobileHero({ onNext }: MobileHeroProps) {
             💍 Júlia & Ruan
           </h1>
           <p className="text-xl text-muted-foreground font-light">
-            17 de Dezembro de 2025
+            7 de dezembro de 2025
           </p>
         </div>
 
@@ -61,7 +61,7 @@ export function MobileHero({ onNext }: MobileHeroProps) {
           
           <div className="bg-gold-light/50 rounded-lg p-4">
             <p className="text-foreground font-medium text-sm">
-              📌 <strong>Confirme sua presença até 17 de novembro de 2025</strong>
+              📌 <strong>Confirme sua presença até 7 de novembro de 2025</strong>
             </p>
             <p className="text-xs text-muted-foreground mt-1">
               Sua confirmação é essencial para organizarmos tudo com muito amor e cuidado.
